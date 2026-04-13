@@ -4,7 +4,7 @@
   <img src="images/Untitled113_20260413190951.png">
 </div>
 
-<img src="images/Untitled121_20260413192730.png" width="40%" height="40%">
+<img src="images/Untitled121_20260413192730.png" width="35%" height="35%"> <img src="images/Untitled122_20260413192812.png" width="50%" height="50%">
 
 <img src="images/Untitled123_20260413191648.png" width="100%" height="80" style="object-fit: cover;">
 
