@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <style>
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-20px); }
+    }
+    image {
+      animation: bounce 1.5s ease infinite;
+    }
+  </style>
+  <image href="520f48dccff972dfc8cae652397d1c6c.jpg" width="200" height="200"/>
+</svg>
